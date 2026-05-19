@@ -1,0 +1,14 @@
+{
+  "name": "H2O+ Hydration Tracker",
+  "short_name": "H2O+",
+  "description": "Dagelijkse water en thee tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060e1a",
+  "theme_color": "#060e1a",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
